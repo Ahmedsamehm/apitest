@@ -1,0 +1,18 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "T-Shirt",
+            "size": "M",
+            "color": "Red",
+            "description": "Comfortable cotton T-shirt."
+        },
+        {
+            "id": 2,
+            "name": "Jeans",
+            "size": "32",
+            "color": "Blue",
+            "description": "Classic slim-fit jeans."
+        }
+    ]
+}
